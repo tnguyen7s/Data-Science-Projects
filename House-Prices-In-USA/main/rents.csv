@@ -1,0 +1,851 @@
+location,price,beds
+austin-tx,"$2,549 - 7,938",Studio - 3 Beds
+austin-tx,"$2,025 - 13,235",Studio - 3 Beds
+austin-tx,"$1,785 - 2,565",1-2 Beds
+austin-tx,"$1,563 - 2,303",1-2 Beds
+austin-tx,"$1,600 - 2,175",2-3 Beds
+austin-tx,"$1,600 - 2,175",2-4 Beds
+austin-tx,"$1,390 - 5,146",1-3 Beds
+austin-tx,"$1,120 - 1,315",2 Beds
+austin-tx,"$1,019 - 1,709",1-5 Beds
+austin-tx,"$2,385 - 2,535",1-2 Beds
+austin-tx,"$2,519 - 6,034",Studio - 2 Beds
+austin-tx,"$2,128 - 5,685",Studio - 2 Beds
+austin-tx,"$2,718 - 5,081",Studio - 3 Beds
+austin-tx,"$2,272 - 7,789",1-2 Beds
+austin-tx,"$1,591 - 6,499",1-2 Beds
+austin-tx,"$1,561 - 3,125",1-3 Beds
+austin-tx,"$1,550 - 2,285",1-2 Beds
+austin-tx,"$1,716 - 3,885",Studio - 3 Beds
+austin-tx,"$1,428 - 8,130",1-3 Beds
+austin-tx,"$2,850 - 6,984",Studio - 3 Beds
+austin-tx,"$1,377 - 2,830",1-3 Beds
+austin-tx,"$1,220 - 1,821",Studio - 2 Beds
+austin-tx,"$1,385 - 7,209",Studio - 3 Beds
+austin-tx,"$1,043 - 2,935",1-2 Beds
+austin-tx,"$925 - 1,635",Studio - 4 Beds
+austin-tx,"$1,535 - 3,210",Studio - 2 Beds
+austin-tx,"$1,119 - 1,859",1-3 Beds
+austin-tx,"$1,039 - 6,313",Studio - 2 Beds
+austin-tx,"$770 - 1,385",2-5 Beds
+austin-tx,"$1,039 - 5,110",Studio - 2 Beds
+austin-tx,"$985 - 1,560",1-3 Beds
+austin-tx,"$919 - 1,299",2-5 Beds
+austin-tx,"$770 - 1,311",2-5 Beds
+austin-tx,"$799 - 1,839",2-6 Beds
+austin-tx,"$989 - 1,450",2-5 Beds
+austin-tx,"$588 - 1,585",Studio - 4 Beds
+austin-tx,"$590 - 1,660",Studio - 4 Beds
+austin-tx,$593 - 643,2 Beds
+austin-tx,"$538 - 1,400",1-3 Beds
+austin-tx,"$505 - 1,560",1-3 Beds
+austin-tx,$475 - 985,1-4 Beds
+austin-tx,"$1,490 - 2,875",1-3 Beds
+austin-tx,"$1,474 - 2,805",1-3 Beds
+austin-tx,"$1,311 - 1,989",1-2 Beds
+austin-tx,"$1,670 - 3,922",Studio - 2 Beds
+austin-tx,"$1,743 - 3,131",Studio - 2 Beds
+austin-tx,"$1,436 - 2,625",1-3 Beds
+austin-tx,"$2,308 - 3,799",Studio - 2 Beds
+austin-tx,"$1,926 - 3,855",Studio - 2 Beds
+austin-tx,"$1,996 - 3,241",1-2 Beds
+austin-tx,"$1,606 - 2,890",Studio - 3 Beds
+austin-tx,"$1,759 - 3,289",Studio - 2 Beds
+austin-tx,"$2,509 - 6,141",1-2 Beds
+austin-tx,"$2,203 - 3,760",1-2 Beds
+austin-tx,Call for Rent,Studio - 2 Beds
+austin-tx,"$2,036 - 4,995",Studio - 2 Beds
+austin-tx,"$1,899 - 3,008",Studio - 2 Beds
+austin-tx,Call for Rent,1-3 Beds
+austin-tx,"$1,659 - 3,079",Studio - 3 Beds
+austin-tx,"$1,397 - 4,408",1-3 Beds
+austin-tx,"$1,326 - 2,385",1-3 Beds
+austin-tx,"$1,007 - 4,845",Studio - 2 Beds
+austin-tx,"$649 - 1,199",2-6 Beds
+austin-tx,"$1,204 - 2,093",Studio - 2 Beds
+austin-tx,"$1,194 - 1,656",1-4 Beds
+austin-tx,$848 - 960,2-3 Beds
+austin-tx,"$919 - 1,669",Studio - 2 Beds
+austin-tx,"$1,806 - 4,047",Studio - 2 Beds
+austin-tx,"$1,800 - 1,950",1 Bed
+austin-tx,"$1,450 - 1,500",2 Beds
+austin-tx,Call for Rent,1-3 Beds
+austin-tx,"$1,100",1 Bed
+austin-tx,"$915 - 2,039",Studio - 4 Beds
+austin-tx,"$809 - 2,079",1-3 Beds
+austin-tx,"$1,465 - 2,502",1-3 Beds
+austin-tx,"$1,800 - 3,075",Studio - 2 Beds
+austin-tx,"$2,600 - 8,681",1-2 Beds
+austin-tx,"$1,455 - 4,809",1-3 Beds
+austin-tx,"$2,690 - 10,824",Studio - 3 Beds
+austin-tx,"$2,313 - 4,728",Studio - 2 Beds
+austin-tx,"$1,312 - 3,365",1-2 Beds
+austin-tx,"$2,103 - 3,571",Studio - 2 Beds
+austin-tx,"$2,525 - 19,570",1-3 Beds
+austin-tx,"$1,961 - 3,119",1-2 Beds
+austin-tx,"$1,450 - 1,600",2-3 Beds
+austin-tx,Call for Rent,1-2 Beds
+austin-tx,"$1,189 - 1,489",Studio - 2 Beds
+austin-tx,"$1,380 - 2,564",1-2 Beds
+austin-tx,"$1,704 - 4,125",Studio - 3 Beds
+austin-tx,"$1,209 - 2,486",1-3 Beds
+austin-tx,"$1,839 - 2,707",1-2 Beds
+austin-tx,"$1,180 - 1,434",1-2 Beds
+austin-tx,"$1,995 - 5,822",Studio - 2 Beds
+austin-tx,"$2,630 - 6,637",1-2 Beds
+austin-tx,"$1,540 - 2,474",Studio - 1 Bed
+austin-tx,"$1,675 - 1,725",2 Beds
+austin-tx,"$1,175 - 1,555",Studio - 4 Beds
+austin-tx,"$2,175 - 2,197",2 Beds
+austin-tx,"$2,210 - 4,846",Studio - 2 Beds
+austin-tx,"$1,219 - 1,749",Studio - 2 Beds
+austin-tx,"$1,379 - 2,444",1-2 Beds
+austin-tx,"$1,300 - 1,570",1 Bed
+austin-tx,"$1,420 - 1,980",2 Beds
+austin-tx,"$1,125 - 1,530",1-2 Beds
+austin-tx,"$1,259 - 2,648",1-3 Beds
+austin-tx,"$1,100 - 1,955",1-3 Beds
+austin-tx,"$1,510 - 2,298",1-2 Beds
+austin-tx,"$1,079 - 1,529",Studio - 2 Beds
+austin-tx,"$1,425 - 1,795",1-2 Beds
+austin-tx,"$1,300",Studio - 2 Beds
+austin-tx,"$1,099 - 1,250",1 Bed
+austin-tx,"$1,140 - 1,250",2 Beds
+austin-tx,"$1,385 - 12,240",Studio - 3 Beds
+austin-tx,"$1,095 - 1,999",Studio - 3 Beds
+austin-tx,"$920 - 1,390",2 Beds
+austin-tx,"$1,079 - 1,298",1-3 Beds
+austin-tx,"$779 - 1,999",Studio - 3 Beds
+austin-tx,"$1,304 - 2,432",Studio - 2 Beds
+austin-tx,"$1,363 - 2,009",1-3 Beds
+austin-tx,"$1,209 - 2,114",1-3 Beds
+austin-tx,"$1,035 - 1,620",1-4 Beds
+austin-tx,"$1,849",1 Bed
+austin-tx,"$2,700",3 Beds
+austin-tx,"$2,550",1 Bed
+austin-tx,"$2,950",3 Beds
+austin-tx,"$2,295",1 Bed
+austin-tx,"$2,499",1 Bed
+austin-tx,"$1,887",2 Beds
+austin-tx,"$1,505",1 Bed
+austin-tx,"$1,600",1 Bed
+austin-tx,"$1,915",1 Bed
+austin-tx,"$1,665",1 Bed
+austin-tx,"$1,936",1 Bed
+austin-tx,"$1,865",1 Bed
+austin-tx,"$1,904",1 Bed
+austin-tx,"$1,887",1 Bed
+austin-tx,"$1,921",1 Bed
+austin-tx,"$1,840",Studio
+austin-tx,"$1,700",1 Bed
+austin-tx,"$1,854",1 Bed
+austin-tx,"$1,860",1 Bed
+austin-tx,"$1,745",1 Bed
+austin-tx,"$1,744",1 Bed
+austin-tx,"$2,400",2 Beds
+austin-tx,"$1,050",5 Beds
+austin-tx,"$1,100",2 Beds
+austin-tx,"$1,275",2 Beds
+austin-tx,$800,4 Beds
+austin-tx,$875,4 Beds
+austin-tx,"$1,000",4 Beds
+austin-tx,"$1,754",1 Bed
+austin-tx,"$1,721",1 Bed
+austin-tx,"$1,817",1 Bed
+austin-tx,"$1,872",1 Bed
+austin-tx,"$1,593",1 Bed
+austin-tx,"$1,593",1 Bed
+austin-tx,"$1,561",1 Bed
+austin-tx,"$1,490",1 Bed
+austin-tx,"$1,923",1 Bed
+austin-tx,"$1,748",1 Bed
+austin-tx,"$1,744",1 Bed
+austin-tx,"$1,600",1 Bed
+austin-tx,"$1,825",1 Bed
+austin-tx,"$1,785",1 Bed
+austin-tx,"$1,924",1 Bed
+austin-tx,"$1,716",Studio
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+austin-tx,,
+saint-louis-mo,"$2,150 - 3,000",1-2 Beds
+saint-louis-mo,"$1,399 - 3,399",Studio - 2 Beds
+saint-louis-mo,"$1,300 - 4,095",Studio - 2 Beds
+saint-louis-mo,Call for Rent,1-3 Beds
+saint-louis-mo,"$810 - 1,015",Studio - 1 Bed
+saint-louis-mo,Call for Rent,1-3 Beds
+saint-louis-mo,"$985 - 1,880",1-3 Beds
+saint-louis-mo,"$1,674 - 5,124",1-2 Beds
+saint-louis-mo,"$1,838 - 2,890",1-3 Beds
+saint-louis-mo,"$1,600 - 2,200",1 Bed
+saint-louis-mo,"$2,150 - 5,400",Studio - 3 Beds
+saint-louis-mo,"$1,716 - 4,918",Studio - 3 Beds
+saint-louis-mo,"$2,075",1-2 Beds
+saint-louis-mo,"$1,851 - 3,363",Studio - 2 Beds
+saint-louis-mo,"$1,300 - 2,500",2-3 Beds
+saint-louis-mo,"$1,275 - 2,025",Studio - 2 Beds
+saint-louis-mo,"$5,000 - 5,500",3 Beds
+saint-louis-mo,"$1,305 - 2,375",Studio - 2 Beds
+saint-louis-mo,"$1,304 - 1,369",1 Bed
+saint-louis-mo,"$1,379 - 3,441",1-3 Beds
+saint-louis-mo,"$1,525 - 2,745",1-2 Beds
+saint-louis-mo,"$924 - 1,324",Studio - 2 Beds
+saint-louis-mo,Call for Rent,Studio - 2 Beds
+saint-louis-mo,"$2,340",2 Beds
+saint-louis-mo,"$1,062 - 2,224",Studio - 2 Beds
+saint-louis-mo,"$1,415 - 2,614",Studio - 2 Beds
+saint-louis-mo,"$1,080 - 2,995",Studio - 3 Beds
+saint-louis-mo,"$1,500 - 4,025",Studio - 2 Beds
+saint-louis-mo,"$1,425 - 1,500",3 Beds
+saint-louis-mo,$803 - 982,Studio
+saint-louis-mo,"$950 - 1,050",1-2 Beds
+saint-louis-mo,"$925 - 2,250",Studio - 3 Beds
+saint-louis-mo,"$1,095 - 1,620",Studio - 1 Bed
+saint-louis-mo,$840,1 Bed
+saint-louis-mo,"$1,137 - 3,020",Studio - 2 Beds
+saint-louis-mo,"$790 - 1,370",Studio - 2 Beds
+saint-louis-mo,"$850 - 1,500",1-2 Beds
+saint-louis-mo,"$925 - 1,270",1-2 Beds
+saint-louis-mo,"$639 - 1,319",Studio - 4 Beds
+saint-louis-mo,$515 - 640,1-2 Beds
+saint-louis-mo,"$710 - 1,220",Studio - 3 Beds
+saint-louis-mo,"$1,385 - 4,280",Studio - 3 Beds
+saint-louis-mo,Call for Rent,Studio - 1 Bed
+saint-louis-mo,"$920 - 2,440",Studio - 2 Beds
+saint-louis-mo,"$1,070 - 2,329",1-2 Beds
+saint-louis-mo,"$1,370 - 2,475",1-2 Beds
+saint-louis-mo,"$1,060 - 2,070",Studio - 2 Beds
+saint-louis-mo,"$1,055 - 1,900",Studio - 2 Beds
+saint-louis-mo,"$1,375 - 2,015",1-2 Beds
+saint-louis-mo,"$1,050 - 3,910",Studio - 4 Beds
+saint-louis-mo,$725 - 925,1-2 Beds
+saint-louis-mo,"$950 - 1,800",1-3 Beds
+saint-louis-mo,"$630 - 1,030",1-3 Beds
+saint-louis-mo,"$1,799 - 4,265",Studio - 2 Beds
+saint-louis-mo,"$1,375 - 2,711",2-3 Beds
+saint-louis-mo,"$1,325 - 2,600",Studio - 2 Beds
+saint-louis-mo,"$1,500 - 1,800",2 Beds
+saint-louis-mo,"$3,000 - 3,800",Studio - 1 Bed
+saint-louis-mo,"$1,332 - 2,325",1-2 Beds
+saint-louis-mo,"$1,625",2 Beds
+saint-louis-mo,"$1,294 - 2,837",Studio - 3 Beds
+saint-louis-mo,"$1,000 - 1,400",Studio - 1 Bed
+saint-louis-mo,$925 - 975,3 Beds
+saint-louis-mo,"$690 - 2,700",Studio - 2 Beds
+saint-louis-mo,$655 - 760,1-2 Beds
+saint-louis-mo,"$778 - 1,115",1-2 Beds
+saint-louis-mo,"$750 - 1,100",1-2 Beds
+saint-louis-mo,$849 - 999,2 Beds
+saint-louis-mo,$809 - 859,2 Beds
+saint-louis-mo,$662 - 816,1-2 Beds
+saint-louis-mo,Call for Rent,1-2 Beds
+saint-louis-mo,"$620 - 1,410",Studio - 2 Beds
+saint-louis-mo,$650 - 850,1-2 Beds
+saint-louis-mo,"$800 - 1,700",Studio - 2 Beds
+saint-louis-mo,"$803 - 6,745",Studio - 5 Beds
+saint-louis-mo,$700 - 940,1-2 Beds
+saint-louis-mo,$660 - 782,1-2 Beds
+saint-louis-mo,"$610 - 1,025",1-2 Beds
+saint-louis-mo,"$749 - 2,399",Studio - 4 Beds
+saint-louis-mo,$565 - 650,1-2 Beds
+saint-louis-mo,$685 - 910,1-2 Beds
+saint-louis-mo,"$700 - 1,799",Studio - 3 Beds
+saint-louis-mo,$600 - 950,Studio - 3 Beds
+saint-louis-mo,"$1,900",2 Beds
+saint-louis-mo,"$1,799",1 Bed
+saint-louis-mo,"$1,932",1 Bed
+saint-louis-mo,"$1,831",1 Bed
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+saint-louis-mo,,
+minneapolis-mn,"$1,410 - 3,055",Studio - 2 Beds
+minneapolis-mn,"$1,590 - 4,200",1-4 Beds
+minneapolis-mn,"$1,360 - 12,015",Studio - 3 Beds
+minneapolis-mn,"$1,292 - 10,748",Studio - 3 Beds
+minneapolis-mn,"$1,525 - 2,320",Studio - 2 Beds
+minneapolis-mn,"$1,725 - 2,450",Studio - 2 Beds
+minneapolis-mn,"$1,060 - 3,790",Studio - 2 Beds
+minneapolis-mn,"$1,307 - 6,025",Studio - 3 Beds
+minneapolis-mn,"$1,075 - 2,285",Studio - 2 Beds
+minneapolis-mn,"$993 - 2,199",Studio - 2 Beds
+minneapolis-mn,"$1,000 - 1,660",Studio - 2 Beds
+minneapolis-mn,"$1,395 - 1,982",Studio - 2 Beds
+minneapolis-mn,"$1,375 - 6,645",Studio - 2 Beds
+minneapolis-mn,"$1,116 - 2,675",Studio - 2 Beds
+minneapolis-mn,"$1,205 - 2,281",Studio - 2 Beds
+minneapolis-mn,"$1,265 - 2,325",Studio - 2 Beds
+minneapolis-mn,"$1,800 - 9,364",Studio - 3 Beds
+minneapolis-mn,"$1,808 - 4,542",Studio - 3 Beds
+minneapolis-mn,"$1,695 - 3,300",Studio - 2 Beds
+minneapolis-mn,"$1,870 - 3,705",1-2 Beds
+minneapolis-mn,"$1,421 - 2,698",1-2 Beds
+minneapolis-mn,"$1,285 - 3,411",Studio - 2 Beds
+minneapolis-mn,"$1,580 - 7,435",1-2 Beds
+minneapolis-mn,"$1,373 - 1,609",1 Bed
+minneapolis-mn,"$1,432 - 2,600",Studio - 2 Beds
+minneapolis-mn,"$1,479 - 3,994",Studio - 2 Beds
+minneapolis-mn,"$1,512 - 9,453",Studio - 3 Beds
+minneapolis-mn,"$1,315 - 6,910",Studio - 3 Beds
+minneapolis-mn,"$1,550 - 4,595",1-2 Beds
+minneapolis-mn,"$1,995",2 Beds
+minneapolis-mn,"$1,526 - 3,387",Studio - 3 Beds
+minneapolis-mn,"$1,330 - 4,188",Studio - 2 Beds
+minneapolis-mn,"$1,295 - 3,295",Studio - 2 Beds
+minneapolis-mn,"$1,395 - 2,145",1-2 Beds
+minneapolis-mn,"$1,223 - 4,555",Studio - 3 Beds
+minneapolis-mn,"$1,495 - 1,550",Studio
+minneapolis-mn,"$1,096 - 3,067",Studio - 3 Beds
+minneapolis-mn,"$1,270 - 2,825",Studio - 2 Beds
+minneapolis-mn,"$1,450 - 9,500",1-3 Beds
+minneapolis-mn,"$1,000 - 2,890",Studio - 2 Beds
+minneapolis-mn,"$1,205 - 2,459",1-2 Beds
+minneapolis-mn,"$1,347 - 1,914",1-2 Beds
+minneapolis-mn,"$1,189 - 3,598",1-3 Beds
+minneapolis-mn,"$1,520 - 5,288",1-4 Beds
+minneapolis-mn,"$1,230 - 2,889",Studio - 2 Beds
+minneapolis-mn,"$949 - 1,029",1 Bed
+minneapolis-mn,"$1,200",2 Beds
+minneapolis-mn,"$1,050 - 1,810",Studio - 2 Beds
+minneapolis-mn,"$1,250 - 1,350",1 Bed
+minneapolis-mn,"$825 - 2,765",2-4 Beds
+minneapolis-mn,"$949 - 1,686",Studio - 2 Beds
+minneapolis-mn,"$1,007 - 1,802",Studio - 2 Beds
+minneapolis-mn,"$1,165 - 1,270",Studio - 1 Bed
+minneapolis-mn,"$1,105 - 1,350",Studio - 1 Bed
+minneapolis-mn,"$800 - 1,190",Studio
+minneapolis-mn,"$880 - 1,600",Studio - 1 Bed
+minneapolis-mn,"$850 - 1,295",Studio - 1 Bed
+minneapolis-mn,"$1,025 - 2,830",Studio - 2 Beds
+minneapolis-mn,"$699 - 1,339",1-4 Beds
+minneapolis-mn,"$1,331 - 2,947",1-2 Beds
+minneapolis-mn,"$1,210 - 2,625",1-2 Beds
+minneapolis-mn,"$629 - 1,679",Studio - 4 Beds
+minneapolis-mn,"$950 - 1,299",Studio - 1 Bed
+minneapolis-mn,"$700 - 1,550",Studio - 2 Beds
+minneapolis-mn,"$1,700 - 3,800",1-3 Beds
+minneapolis-mn,"$1,112 - 3,082",Studio - 3 Beds
+minneapolis-mn,"$1,089 - 2,163",Studio - 2 Beds
+minneapolis-mn,"$1,127 - 2,085",Studio - 2 Beds
+minneapolis-mn,"$1,339 - 2,099",Studio - 2 Beds
+minneapolis-mn,"$1,195 - 1,250",Studio
+minneapolis-mn,"$1,195 - 1,325",Studio
+minneapolis-mn,"$1,360 - 2,708",Studio - 2 Beds
+minneapolis-mn,"$2,099 - 2,299",2 Beds
+minneapolis-mn,Call for Rent,Studio - 2 Beds
+minneapolis-mn,"$1,075 - 1,950",Studio - 2 Beds
+minneapolis-mn,"$1,115 - 1,250",1 Bed
+minneapolis-mn,"$2,195",3 Beds
+minneapolis-mn,"$1,355 - 4,095",Studio - 2 Beds
+minneapolis-mn,"$1,269 - 2,111",Studio - 2 Beds
+minneapolis-mn,"$1,370 - 2,190",Studio - 3 Beds
+minneapolis-mn,"$1,025 - 1,440",Studio
+minneapolis-mn,"$1,799 - 2,699",2-3 Beds
+minneapolis-mn,"$1,175 - 2,230",1 Bed
+minneapolis-mn,"$1,507 - 3,577",1-2 Beds
+minneapolis-mn,"$1,140 - 1,499",1-2 Beds
+minneapolis-mn,"$1,346 - 3,834",Studio - 2 Beds
+minneapolis-mn,"$1,320 - 3,150",1-4 Beds
+minneapolis-mn,"$1,035 - 1,485",Studio - 1 Bed
+minneapolis-mn,"$1,125 - 1,695",Studio - 2 Beds
+minneapolis-mn,"$1,029 - 1,849",1-3 Beds
+minneapolis-mn,"$871 - 1,250",Studio - 1 Bed
+minneapolis-mn,"$2,085 - 2,495",3 Beds
+minneapolis-mn,"$785 - 1,470",Studio - 4 Beds
+minneapolis-mn,"$879 - 1,137",Studio - 1 Bed
+minneapolis-mn,"$730 - 1,300",Studio - 2 Beds
+minneapolis-mn,"$735 - 1,095",1-4 Beds
+minneapolis-mn,$555 - 915,2-4 Beds
+minneapolis-mn,"$1,588 - 4,032",1-2 Beds
+minneapolis-mn,"$1,344 - 2,482",Studio - 2 Beds
+minneapolis-mn,"$1,095 - 2,145",Studio - 2 Beds
+minneapolis-mn,"$2,100 - 3,400",2-4 Beds
+minneapolis-mn,"$1,339 - 2,349",Studio - 2 Beds
+minneapolis-mn,"$1,250 - 3,475",1-5 Beds
+minneapolis-mn,"$1,070 - 1,580",1 Bed
+minneapolis-mn,"$1,430 - 3,090",Studio - 2 Beds
+minneapolis-mn,"$1,195 - 1,650",Studio - 1 Bed
+minneapolis-mn,"$965 - 3,515",Studio - 2 Beds
+minneapolis-mn,"$1,480 - 2,950",Studio - 2 Beds
+minneapolis-mn,"$1,275 - 1,285",2 Beds
+minneapolis-mn,"$1,100 - 1,350",Studio - 1 Bed
+minneapolis-mn,"$1,035 - 1,055",1 Bed
+minneapolis-mn,"$875 - 1,450",1-2 Beds
+minneapolis-mn,"$950 - 1,250",Studio
+minneapolis-mn,"$1,245 - 2,250",Studio - 2 Beds
+minneapolis-mn,"$995 - 1,190",Studio - 1 Bed
+minneapolis-mn,"$1,095 - 1,700",Studio - 3 Beds
+minneapolis-mn,"$540 - 1,015",2-4 Beds
+minneapolis-mn,"$903 - 2,174",1-2 Beds
+minneapolis-mn,"$845 - 1,140",1 Bed
+minneapolis-mn,"$799 - 1,350",Studio - 2 Beds
+minneapolis-mn,"$1,319",2 Beds
+minneapolis-mn,"$1,289 - 1,299",2 Beds
+minneapolis-mn,"$1,357 - 2,400",1-3 Beds
+minneapolis-mn,"$999 - 1,239",1-2 Beds
+minneapolis-mn,$830 - 850,1 Bed
+minneapolis-mn,"$1,645",1 Bed
+minneapolis-mn,"$1,245 - 1,995",1-2 Beds
+minneapolis-mn,Call for Rent,1-2 Beds
+minneapolis-mn,"$1,090",1-2 Beds
+minneapolis-mn,"$1,711 - 1,736",1-2 Beds
+minneapolis-mn,"$1,175",Studio
+minneapolis-mn,"$1,480 - 2,000",Studio - 2 Beds
+minneapolis-mn,"$1,250 - 2,750",Studio - 2 Beds
+minneapolis-mn,"$1,375 - 1,995",1-2 Beds
+minneapolis-mn,$800,Studio
+minneapolis-mn,"$1,125 - 2,650",1-4 Beds
+minneapolis-mn,$875,Studio
+minneapolis-mn,"$1,200",Studio - 2 Beds
+minneapolis-mn,"$1,185 - 2,195",Studio - 2 Beds
+minneapolis-mn,"$1,291 - 4,359",Studio - 2 Beds
+minneapolis-mn,"$995 - 1,375",Studio - 2 Beds
+minneapolis-mn,"$1,325 - 1,620",Studio - 1 Bed
+minneapolis-mn,"$1,335 - 1,680",2 Beds
+minneapolis-mn,$925,1 Bed
+minneapolis-mn,"$1,155 - 1,375",1-2 Beds
+minneapolis-mn,"$899 - 1,049",Studio
+minneapolis-mn,"$900 - 1,180",1-2 Beds
+minneapolis-mn,$975,Studio - 2 Beds
+minneapolis-mn,"$975 - 1,350",Studio - 2 Beds
+minneapolis-mn,"$1,300 - 3,250",Studio - 2 Beds
+minneapolis-mn,$795 - 925,Studio - 1 Bed
+minneapolis-mn,"$900 - 1,180",1-2 Beds
+minneapolis-mn,$795 - 895,Studio - 1 Bed
+minneapolis-mn,"$850 - 1,500",Studio - 2 Beds
+minneapolis-mn,"$1,185 - 1,400",1-2 Beds
+minneapolis-mn,"$800 - 1,125",Studio - 2 Beds
+minneapolis-mn,$795 - 895,Studio - 1 Bed
+minneapolis-mn,"$950 - 1,200",1-2 Beds
+minneapolis-mn,$795 - 960,Studio
+minneapolis-mn,"$975 - 2,500",1-4 Beds
+minneapolis-mn,Call for Rent,Studio - 3 Beds
+minneapolis-mn,"$995 - 1,395",Studio - 2 Beds
+minneapolis-mn,"$995 - 1,425",1-2 Beds
+minneapolis-mn,$850 - 950,Studio - 1 Bed
+minneapolis-mn,"$741 - 1,655",Studio - 1 Bed
+minneapolis-mn,"$745 - 1,200",Studio - 2 Beds
+minneapolis-mn,"$830 - 1,150",Studio - 2 Beds
+minneapolis-mn,"$800 - 1,199",Studio - 1 Bed
+minneapolis-mn,"$825 - 1,100",Studio - 2 Beds
+minneapolis-mn,"$1,145",1-2 Beds
+minneapolis-mn,"$990 - 1,535",Studio - 2 Beds
+minneapolis-mn,"$725 - 1,100",Studio - 2 Beds
+minneapolis-mn,$700 - 999,Studio
+minneapolis-mn,"$1,600 - 2,472",Studio - 2 Beds
+minneapolis-mn,"$1,250 - 3,750",Studio - 3 Beds
+minneapolis-mn,"$1,264",2 Beds
+minneapolis-mn,"$1,140",2 Beds
+minneapolis-mn,"$920 - 1,120",1-2 Beds
+minneapolis-mn,"$890 - 1,250",1-2 Beds
+minneapolis-mn,$695 - 749,4 Beds
+minneapolis-mn,"$800 - 1,300",Studio - 2 Beds
+minneapolis-mn,"$1,650",1 Bed
+minneapolis-mn,"$1,295",2 Beds
+minneapolis-mn,"$2,500",4 Beds
+minneapolis-mn,"$3,600",5 Beds
+minneapolis-mn,"$2,800",5 Beds
+minneapolis-mn,"$2,490",6 Beds
+minneapolis-mn,"$2,250",5 Beds
+minneapolis-mn,"$1,500",2 Beds
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+minneapolis-mn,,
+tampa-fl,"$1,600 - 1,750",2-3 Beds
+tampa-fl,"$1,874 - 3,122",1-3 Beds
+tampa-fl,"$1,730 - 3,044",Studio - 3 Beds
+tampa-fl,"$1,650 - 1,800",2-3 Beds
+tampa-fl,"$2,057 - 3,692",Studio - 3 Beds
+tampa-fl,"$2,212 - 4,314",1-3 Beds
+tampa-fl,"$1,960 - 3,285",1-2 Beds
+tampa-fl,"$3,058 - 3,239",2 Beds
+tampa-fl,"$2,205 - 4,520",Studio - 2 Beds
+tampa-fl,"$1,811 - 2,722",Studio - 2 Beds
+tampa-fl,"$2,360 - 5,210",1-2 Beds
+tampa-fl,"$2,238 - 9,505",Studio - 3 Beds
+tampa-fl,"$2,015 - 4,755",Studio - 3 Beds
+tampa-fl,"$1,687 - 2,920",1-3 Beds
+tampa-fl,"$2,035 - 2,842",Studio - 3 Beds
+tampa-fl,"$1,965 - 3,838",1-3 Beds
+tampa-fl,"$1,995",2 Beds
+tampa-fl,"$2,073 - 3,853",1-3 Beds
+tampa-fl,"$1,925 - 3,137",Studio - 3 Beds
+tampa-fl,"$2,114 - 3,641",Studio - 2 Beds
+tampa-fl,"$2,144 - 4,844",Studio - 3 Beds
+tampa-fl,"$1,335 - 3,490",Studio - 2 Beds
+tampa-fl,"$1,487 - 2,664",1-2 Beds
+tampa-fl,"$1,537 - 2,135",1-3 Beds
+tampa-fl,"$1,795 - 3,300",Studio - 4 Beds
+tampa-fl,"$1,650 - 1,725",2 Beds
+tampa-fl,"$1,225 - 1,790",1-2 Beds
+tampa-fl,"$1,035",4 Beds
+tampa-fl,$649 - 699,3-4 Beds
+tampa-fl,"$865 - 1,970",Studio - 4 Beds
+tampa-fl,"$919 - 1,599",1-4 Beds
+tampa-fl,$849 - 899,3-4 Beds
+tampa-fl,"$1,524 - 2,487",1-3 Beds
+tampa-fl,"$1,339 - 1,805",1-2 Beds
+tampa-fl,"$1,079 - 1,379",1-2 Beds
+tampa-fl,"$835 - 1,228",1-4 Beds
+tampa-fl,"$1,689 - 2,604",1-3 Beds
+tampa-fl,"$1,733 - 2,277",1-3 Beds
+tampa-fl,"$1,365 - 2,285",1-2 Beds
+tampa-fl,"$1,890 - 5,180",Studio - 3 Beds
+tampa-fl,"$2,084 - 4,694",Studio - 3 Beds
+tampa-fl,"$1,897 - 4,331",1-3 Beds
+tampa-fl,"$1,540 - 1,900",2 Beds
+tampa-fl,"$1,363 - 2,216",1-3 Beds
+tampa-fl,"$1,541 - 2,326",1-2 Beds
+tampa-fl,"$1,537 - 3,315",Studio - 2 Beds
+tampa-fl,$800 - 890,3-4 Beds
+tampa-fl,$815,4 Beds
+tampa-fl,"$1,323 - 2,048",1-2 Beds
+tampa-fl,"$1,210 - 2,373",1-3 Beds
+tampa-fl,"$1,153 - 1,613",1-3 Beds
+tampa-fl,"$1,625 - 1,900",2-3 Beds
+tampa-fl,"$1,698 - 3,688",1-2 Beds
+tampa-fl,"$1,882 - 3,553",Studio - 2 Beds
+tampa-fl,"$1,950 - 2,195",1 Bed
+tampa-fl,"$1,025 - 1,425",1-2 Beds
+tampa-fl,"$1,351 - 3,152",1-3 Beds
+tampa-fl,"$1,275 - 1,525",2 Beds
+tampa-fl,$795 - 945,3-5 Beds
+tampa-fl,"$1,050 - 1,580",1-2 Beds
+tampa-fl,$949,5 Beds
+tampa-fl,"$1,299 - 2,400",1-4 Beds
+tampa-fl,"$2,082 - 5,579",Studio - 3 Beds
+tampa-fl,"$687 - 1,125",1-4 Beds
+tampa-fl,"$1,027",1 Bed
+tampa-fl,"$1,150 - 1,400",1-2 Beds
+tampa-fl,"$1,230 - 2,275",3-4 Beds
+tampa-fl,Call for Rent,1-2 Beds
+tampa-fl,"$1,185 - 1,320",1-2 Beds
+tampa-fl,"$981 - 1,097",1-2 Beds
+tampa-fl,"$1,230 - 1,725",1-2 Beds
+tampa-fl,$699 - 929,2-4 Beds
+tampa-fl,"$889 - 1,537",1-2 Beds
+tampa-fl,"$875 - 1,000",1-2 Beds
+tampa-fl,"$1,075 - 1,700",1-3 Beds
+tampa-fl,"$595 - 1,030",1-4 Beds
+tampa-fl,"$805 - 1,140",Studio - 2 Beds
+tampa-fl,"$1,075 - 1,520",1-3 Beds
+tampa-fl,"$769 - 1,162",1-3 Beds
+tampa-fl,"$1,975",2 Beds
+tampa-fl,"$2,575",2 Beds
+tampa-fl,"$1,924",1 Bed
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+tampa-fl,,
+new-york-ny,"$5,435 - 7,860",Studio - 2 Beds
+new-york-ny,"$2,900 - 5,500",Studio - 2 Beds
+new-york-ny,"$4,150 - 4,250",1 Bed
+new-york-ny,"$7,250",1 Bed
+new-york-ny,"$5,928 - 14,648",1-3 Beds
+new-york-ny,"$4,217",1 Bed
+new-york-ny,"$4,620 - 32,876",Studio - 3 Beds
+new-york-ny,"$8,443",3 Beds
+new-york-ny,"$5,750 - 8,995",1-2 Beds
+new-york-ny,"$6,825 - 23,250",1-4 Beds
+new-york-ny,"$3,900 - 7,200",Studio - 2 Beds
+new-york-ny,"$3,300 - 4,350",Studio - 1 Bed
+new-york-ny,"$3,595 - 3,650",4 Beds
+new-york-ny,"$3,395 - 6,495",Studio - 2 Beds
+new-york-ny,"$3,204 - 6,205",Studio - 2 Beds
+new-york-ny,"$2,961 - 3,438",Studio
+new-york-ny,"$3,881 - 7,839",Studio - 3 Beds
+new-york-ny,"$3,689 - 6,617",Studio - 3 Beds
+new-york-ny,Call for Rent,Studio - 3 Beds
+new-york-ny,"$3,711 - 8,491",Studio - 3 Beds
+new-york-ny,"$3,003 - 6,170",Studio - 3 Beds
+new-york-ny,"$3,735 - 5,250",Studio - 2 Beds
+new-york-ny,"$4,705 - 5,574",1 Bed
+new-york-ny,"$3,900 - 7,455",Studio - 2 Beds
+new-york-ny,"$4,850 - 13,150",1-4 Beds
+new-york-ny,"$3,695 - 7,205",Studio - 2 Beds
+new-york-ny,"$3,857 - 7,525",Studio - 3 Beds
+new-york-ny,"$7,350",Studio - 3 Beds
+new-york-ny,"$2,700 - 3,200",1 Bed
+new-york-ny,"$3,395 - 8,995",Studio - 2 Beds
+new-york-ny,"$3,061 - 3,795",1 Bed
+new-york-ny,Call for Rent,1-3 Beds
+new-york-ny,"$4,125 - 9,899",Studio - 3 Beds
+new-york-ny,"$3,695 - 6,695",Studio - 2 Beds
+new-york-ny,"$4,335 - 6,710",Studio - 3 Beds
+new-york-ny,"$7,000 - 8,000",Studio
+new-york-ny,"$4,050 - 7,395",1-2 Beds
+new-york-ny,"$2,400 - 7,000",1-4 Beds
+new-york-ny,"$1,308 - 3,714",Studio
+new-york-ny,"$12,000 - 19,500",2-4 Beds
+new-york-ny,"$6,525",2 Beds
+new-york-ny,"$4,450 - 4,795",1 Bed
+new-york-ny,"$6,450",2 Beds
+new-york-ny,"$5,025",1 Bed
+new-york-ny,"$4,220 - 22,960",Studio - 3 Beds
+new-york-ny,"$5,395 - 16,190",Studio - 4 Beds
+new-york-ny,"$4,003 - 6,956",Studio - 2 Beds
+new-york-ny,"$4,295 - 4,995",2 Beds
+new-york-ny,"$2,700 - 2,850",2 Beds
+new-york-ny,"$2,200 - 3,010",Studio - 1 Bed
+new-york-ny,"$2,180 - 2,980",Studio
+new-york-ny,"$4,742 - 12,672",Studio - 3 Beds
+new-york-ny,"$7,560",Studio
+new-york-ny,"$2,700",2 Beds
+new-york-ny,"$4,000",1 Bed
+new-york-ny,"$8,000",1 Bed
+new-york-ny,"$10,600",1 Bed
+new-york-ny,"$75,000",3 Beds
+new-york-ny,"$7,000",3 Beds
+new-york-ny,"$2,595",1 Bed
+new-york-ny,"$3,000",3 Beds
+new-york-ny,"$2,050",1 Bed
+new-york-ny,"$3,950",4 Beds
+new-york-ny,"$2,300",2 Beds
+new-york-ny,"$3,375",2 Beds
+new-york-ny,"$3,050",1 Bed
+new-york-ny,"$2,950",Studio
+new-york-ny,"$3,100",1 Bed
+new-york-ny,"$3,800",2 Beds
+new-york-ny,"$2,995",3 Beds
+new-york-ny,"$3,375",2 Beds
+new-york-ny,"$9,500",2 Beds
+new-york-ny,"$3,600",3 Beds
+new-york-ny,"$3,750",Studio
+new-york-ny,"$4,800",1 Bed
+new-york-ny,"$7,180",1 Bed
+new-york-ny,"$5,380",Studio
+new-york-ny,"$52,000",5 Beds
+new-york-ny,"$2,248",1 Bed
+new-york-ny,"$67,708",Studio
+new-york-ny,"$5,000",4 Beds
+new-york-ny,"$1,945",Studio
+new-york-ny,"$75,000",6 Beds
+new-york-ny,"$85,000",8 Beds
+new-york-ny,"$70,000",4 Beds
+new-york-ny,"$2,999",4 Beds
+new-york-ny,"$2,199",2 Beds
+new-york-ny,"$50,000",6 Beds
+new-york-ny,"$2,900",1 Bed
+new-york-ny,"$3,400",4 Beds
+new-york-ny,"$3,295",1 Bed
+new-york-ny,"$4,150",1 Bed
+new-york-ny,"$4,350",3 Beds
+new-york-ny,"$3,295",1 Bed
+new-york-ny,"$2,550",Studio
+new-york-ny,"$4,300",3 Beds
+new-york-ny,"$2,150",1 Bed
+new-york-ny,"$2,195",1 Bed
+new-york-ny,"$5,250",4 Beds
+new-york-ny,"$3,650",2 Beds
+new-york-ny,"$7,700",5 Beds
+new-york-ny,"$4,250",3 Beds
+new-york-ny,"$4,600",3 Beds
+new-york-ny,"$2,800",2 Beds
+new-york-ny,"$2,150",1 Bed
+new-york-ny,"$3,495",3 Beds
+new-york-ny,"$4,995",1 Bed
+new-york-ny,"$4,000",2 Beds
+new-york-ny,"$4,700",2 Beds
+new-york-ny,"$3,600",2 Beds
+new-york-ny,"$4,795",2 Beds
+new-york-ny,"$4,500",2 Beds
+new-york-ny,"$3,495",3 Beds
+new-york-ny,"$6,875",3 Beds
+new-york-ny,"$2,250",1 Bed
+new-york-ny,"$3,000",Studio
+new-york-ny,"$2,425",2 Beds
+new-york-ny,"$3,550",2 Beds
+new-york-ny,"$5,000",4 Beds
+new-york-ny,"$5,500",4 Beds
+new-york-ny,"$4,300",3 Beds
+new-york-ny,"$5,300",3 Beds
+new-york-ny,"$8,000",4 Beds
+new-york-ny,"$4,495",2 Beds
+new-york-ny,"$2,400",3 Beds
+new-york-ny,"$4,200",1 Bed
+new-york-ny,"$6,995",3 Beds
+new-york-ny,"$4,500",3 Beds
+new-york-ny,"$9,500",2 Beds
+new-york-ny,"$3,400",Studio
+new-york-ny,"$8,600",3 Beds
+new-york-ny,"$3,995",Studio
+new-york-ny,"$3,200",2 Beds
+new-york-ny,"$3,400",2 Beds
+new-york-ny,"$7,495",1 Bed
+new-york-ny,"$4,000",2 Beds
+new-york-ny,"$3,995",3 Beds
+new-york-ny,"$2,150",Studio
+new-york-ny,"$1,995",Studio
+new-york-ny,"$4,295",1 Bed
+new-york-ny,"$3,400",2 Beds
+new-york-ny,"$4,800",2 Beds
+new-york-ny,"$2,800",2 Beds
+new-york-ny,"$6,000",1 Bed
+new-york-ny,"$5,895",2 Beds
+new-york-ny,"$5,595",3 Beds
+new-york-ny,"$3,995",2 Beds
+new-york-ny,"$3,995",1 Bed
+new-york-ny,"$5,900",2 Beds
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
+new-york-ny,,
