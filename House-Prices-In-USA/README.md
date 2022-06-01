@@ -11,7 +11,7 @@
 My project rental data is obtained via utilizing Python webscraping library. Data is extracted from apartments.com. There are two versions of code, one uses Scrapy (see scrape_house_price.ipynb) and one uses Selenium (scrape_house_price_using_selenium.ipynb). The webscraper obtains the number of beds and the price for each rent that it sees. Rental data scraped covers 5 main cities in USA, namely, New York city, Austin - TX, Tampa - FL, Minneapolis - MN, Saint Louis - MO. Webscraped data is exported into rents.csv file.
 
 ### 2. Data cleaning
-Data webscraped then is cleaned and transformed into a desired format using Pandas library and exported to a csv file named cleaned_rents.csv.
+Data webscraped then is cleaned and transformed (see more at <a href="https://github.com/tnguyen7s/Data-Science-Projects/blob/main/House-Prices-In-USA/main/House_Prices_In_USA_Data_Cleaning.ipynb">House_Prices_In_USA_Data_Cleaning.ipynb</a>) into a desired format using Pandas library and exported to a csv file named cleaned_rents.csv.
 
 
 ### 3. Data Analysis
